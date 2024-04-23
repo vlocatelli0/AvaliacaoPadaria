@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kalam:wght@300;400;700&family=Tilt+Prism&family=Truculenta:opsz,wght');
+body{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a52a2a;
+    margin:0;
+    padding: 0;
+    background-color: rgb(255, 230, 0);
+}
+header{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    background-color: #a52a2a;
+    color: 
+rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
